@@ -1,4 +1,4 @@
-# Deteccion-hospitalizaciones-machine-learning
+# Deteccion hospitalizaciones machine learning
 
 En este notebook se realizó un análisis predictivo de hospitalizaciones utilizando algoritmos de clasificación.
 
